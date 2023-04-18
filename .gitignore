@@ -1,0 +1,6 @@
+# Project exclude paths
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/assets/js/editor-components/product-attribute-term-control/index.js
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/cart.js
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/contexts.js
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/hooks.js
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/shipping.js
